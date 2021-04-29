@@ -47,11 +47,12 @@ body{
     flex-wrap: wrap;
     
     
+    
 }
 .grid img{
     border:2px solid black;
     border-radius: 50px;
-    
+    margin-left: 50px;
     
 }
 
